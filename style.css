@@ -4,9 +4,6 @@ html, body {
     background-color: rgb(29, 33, 41);
     font-family: monospace;
   }
-  canvas {
-    display: block;
-  }
 
   .flex-container {
     display: flex;
